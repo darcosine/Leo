@@ -1,6 +1,6 @@
 # Leo
 Voice assistant
-NOTE: yOU MUST HAVE OLLAMA INSTALLED. PULL THE MODEL YOU WANT LEO TO RUN ON.
+NOTE: YOU MUST HAVE OLLAMA INSTALLED. PULL THE MODEL YOU WANT LEO TO RUN ON.
 
 
 1. Python 3.8 or later: Ensure Python is installed. Download it from [python.org](https://www.python.org/).
